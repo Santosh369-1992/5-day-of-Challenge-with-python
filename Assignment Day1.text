@@ -1,0 +1,41 @@
+Q1)print(8, 5, 2023, sep='/')
+a) 8 5 2023
+b) 8/5/2023
+c)852023
+d) error 
+Answer -b
+Q2. Which of the following is considered a valid variable name in Python?
+a) 2things
+b) _my_string
+c) try
+d) None of the above
+Answer -b 
+Q3. After executing x = 3.5, what data type is x?
+a) int
+b) str
+c) float
+d) complex
+Answer -c
+Fill-in-the-Blanks
+Q4. In Python, the int() function is utilised to convert a floating-point number to an
+integer.
+Q5. The end____ parameter in the print() function dictates what is printed at the end of the
+output.
+Q6. A ___boolean_ type in Python can hold one of two values: True or False.
+
+True or False
+Q7. Variable names in Python are case-sensitive.
+● True
+● False,
+Answer -True
+
+
+Q8. The print() function is limited to printing strings exclusively.
+● True
+● False
+Answer -False
+
+Q9. In Python, the string "100" is equivalent to the integer 100.
+● True
+● False
+Answer -False
